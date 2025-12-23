@@ -1,6 +1,16 @@
 [{
+  "key":"thisisth_3",
+  "value":"this is the new key",
+  "nodeID":"2025-12-23T09:32:28Z",
+  "lastChanged":1766482745
+},{
   "key":"existing_1",
   "value":"existing value",
   "nodeID":"key",
   "lastChanged":1766479777
+},{
+  "key":"123_2",
+  "value":"123",
+  "nodeID":"new_value",
+  "lastChanged":1766480267
 }]
